@@ -6,6 +6,6 @@
 <p>To run the application you need to open your terminal and open the folder where file is saved:</p>
 <ol>
 <li>Open Applications -> Accessories -> Terminal.</li>
-<li>Find where the magic_8_ball.rb file is – navigate to e.g. Downloads folder: cd ~/Downloads/</li>
-<li>Run .rb file: ruby magic_8_ball.rb</li>
+<li>Find where the magic_8_ball.rb file is – navigate to e.g. Downloads folder: cd ~/Downloads/hangman/</li>
+<li>Run .rb file: ruby hangman.rb</li>
 </ol>

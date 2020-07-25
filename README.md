@@ -8,4 +8,4 @@ When the game starts, the player will guess a letter. If that letter is in the w
 To run the application you need to open your terminal and open the folder where file is saved:
 1. Open Applications -> Accessories -> Terminal.
 2. Find where the `magic_8_ball.rb` file is – navigate to e.g. Downloads folder: `cd ~/Downloads/hangman/`
-Run `.rb` file: ruby `hangman.rb`
+Run `.rb` file: `ruby hangman.rb`
